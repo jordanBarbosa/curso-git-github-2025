@@ -3,3 +3,5 @@ git status	-> mostra o status do trabalho
 git add		-> adiciona arquivo para ser versionado
 git commit -m	-> cria um ponto de salvamento
 git log		-> mostra o histórico de commits
+
+## fluxo de trabalho
