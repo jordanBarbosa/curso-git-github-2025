@@ -1,7 +1,7 @@
-git init .		-> cria um novo repositório
-git status		-> mostra o status do trabalho
-git add		-> adiciona arquivo para ser versionado
-git commit -m	-> cria um ponto de salvamento
-git log		-> mostra o histórico de commits
+git init .	-> Cria um novo repositório
+git status	-> Mostra o status do trabalho
+git add		-> Adiciona arquivo para ser versionado
+git commit -m	-> Cria um ponto de salvamento
+git log		-> Mostra o histórico de commits
 
 ## fluxo de trabalho ##
