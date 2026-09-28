@@ -8,5 +8,9 @@ Confira tudo o que temos no canal do Teo Me Why no Youtube. É grátis! Segue o 
 
 [Curso Git 2025](https://youtube.com/@teomewhy)
 
+Além do nosso youtube, se ligue no nosso site e agenda para ficr por dentro de tudo que vai rolar em 2025.
+
+[teomewhy](https://teomewhy.org/schedule)
+
 Pessoas participantes:
 -Jordan
